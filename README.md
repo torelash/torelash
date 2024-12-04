@@ -17,4 +17,4 @@ Some of the skills I have used include:
 - visit new places
 - watch anime
 
-You can reach me at [Email](toorese@gmail.com) or [Linkedin](linkedin.com/toorese-l)
+You can reach me at [Email](toorese@gmail.com) or [Linkedin](https://linkedin.com/toorese-l)
