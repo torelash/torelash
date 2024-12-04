@@ -1,7 +1,5 @@
 ## Hello
 
-# Hello
-
 Hi! My name is Toorese. Huge fan of soccer, basketball, and problem solver.
 
 I am passionate about leveraging data to drive decision-making and develop innovative solutions. I specialize in using statistical methods, machine learning, and data visualization to extract insights, solve real-world problems across domains, and uncover patterns.
