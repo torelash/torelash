@@ -12,9 +12,4 @@ Some of the skills I have used include:
 - **Optimization**: Excel, Gurobi, Python  
 - **Machine Learning**: Supervised and Unsupervised Learning
 
-In my free time, I love to:
- 
-- visit new places
-- watch anime
-
 You can reach me on [Linkedin](https://www.linkedin.com/in/toorese-l/)
