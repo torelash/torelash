@@ -12,7 +12,7 @@ Some of the skills I have used include:
 - **Optimization**: Excel, Gurobi, Python  
 - **Machine Learning**: Supervised and Unsupervised Learning
 
-⚡ Fun fact about me. In my free time, I love to:
+In my free time, I love to:
  
 - visit new places
 - watch anime
